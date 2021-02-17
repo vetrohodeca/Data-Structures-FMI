@@ -1,0 +1,3 @@
+﻿  Source.cpp
+C:\Users\Alex\source\repos\Data-Structures-FMI\Practicum\26.10\Tasks_Solutions\Tasks_Solutions\Source.cpp(130,46): warning C4244: '+=': conversion from 'double' to 'int', possible loss of data
+  Tasks_Solutions.vcxproj -> C:\Users\Alex\source\repos\Data-Structures-FMI\Practicum\26.10\Tasks_Solutions\Debug\Tasks_Solutions.exe
